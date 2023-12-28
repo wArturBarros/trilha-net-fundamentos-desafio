@@ -51,7 +51,7 @@ while (exibirMenu)
             Console.WriteLine("Opção inválida");
             break;
     }
-
+    Console.WriteLine("");
     Console.WriteLine("Pressione uma tecla para continuar");
     Console.ReadLine();
 }
